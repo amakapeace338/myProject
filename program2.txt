@@ -2,3 +2,5 @@ sonarQube
 Jenkins
 Maven
 Tomcat
+HTML
+C++
